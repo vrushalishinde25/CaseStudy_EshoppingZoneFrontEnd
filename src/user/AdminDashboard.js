@@ -23,11 +23,11 @@ const AdminDashboard = () => {
                             Create Product
                         </Link>
                     </li>
-                    <li className="list-group-item">
+                    {/* <li className="list-group-item">
                         <Link className="nav-link" to="/admin/orders">
                             View Orders
                         </Link>
-                    </li>
+                    </li> */}
                     <li className="list-group-item">
                         <Link className="nav-link" to="/admin/products">
                             Manage Products
